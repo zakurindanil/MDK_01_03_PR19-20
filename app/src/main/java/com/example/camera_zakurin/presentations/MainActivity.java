@@ -1,6 +1,8 @@
-package com.example.camera_zakurin;
+package com.example.camera_zakurin.presentations;
 
 import android.os.Bundle;
+
+import com.example.camera_zakurin.R;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
