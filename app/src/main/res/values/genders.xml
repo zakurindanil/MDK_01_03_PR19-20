@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genders">
+        <item>Мужской</item>
+        <item>Женский</item>
+        <item>Unisex</item>
+    </string-array>
+</resources>
