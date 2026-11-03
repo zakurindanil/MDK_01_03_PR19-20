@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn"
+        style="@style/title3_semibold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_primary"
+        android:text="нажать"
+        android:textColor="#FFFFFF"
+        android:textAllCaps="false"
+        android:paddingTop="16dp"
+        android:paddingBottom="15dp"
+        android:stateListAnimator="@null"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

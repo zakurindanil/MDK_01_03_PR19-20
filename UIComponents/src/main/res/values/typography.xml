@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="title3_semibold" parent="TextAppearance.Material3.TitleSmall">
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textFontWeight">600</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:gravity">center</item>
+        <item name="lineHeight">24dp</item>
+    </style>
+</resources>
